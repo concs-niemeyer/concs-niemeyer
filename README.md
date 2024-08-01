@@ -1,7 +1,4 @@
-## Hi there 👋
-<div style="display: inline_block"><br>
-  <img src='https://raw.seadn.io/files/15a4574749a4f5698cea2256d5137c83.png'/> 
-</div>
+![MECHA_309](https://raw.seadn.io/files/15a4574749a4f5698cea2256d5137c83.png)
 
 [![Concs' GitHub stats](https://github-readme-stats.vercel.app/api?username=concs-niemeyer&count_private=true&show_icons=true&theme=radical)](https://github.com/concs-niemeyer/github-readme-stats)
  
