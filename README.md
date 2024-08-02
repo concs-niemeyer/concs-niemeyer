@@ -1,4 +1,4 @@
-![MECHA_309](https://raw.seadn.io/files/15a4574749a4f5698cea2256d5137c83.png)
+## DeNiemeyer (concs)
 
 [![Concs' GitHub stats](https://github-readme-stats.vercel.app/api?username=concs-niemeyer&count_private=true&show_icons=true&theme=radical)](https://github.com/concs-niemeyer/github-readme-stats)
  
@@ -27,3 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=concs-niemeyer&layout=compact)](https://github.com/concs-niemeyer/github-readme-stats)
 
+
+<div id="nft" style="position:relative; width:100%; max-width:600px; margin:auto;">
+  <img src="https://github.com/concs-niemeyer/album-NFT/blob/main/15a4574749a4f5698cea2256d5137c83.png" style="width:100%; position:absolute; top:0; left:0; opacity:1; transition:opacity 1s;">
+</div>
