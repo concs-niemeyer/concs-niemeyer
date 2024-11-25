@@ -1,4 +1,4 @@
-## DeNiemeyer (concs)
+## Concs
 
 [![Concs' GitHub stats](https://github-readme-stats.vercel.app/api?username=concs-niemeyer&count_private=true&show_icons=true&theme=radical)](https://github.com/concs-niemeyer/github-readme-stats)
  
@@ -16,7 +16,7 @@
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Logo-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="Logo-Postgresql" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
   <img align="center" alt="Logo-Solidity" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
