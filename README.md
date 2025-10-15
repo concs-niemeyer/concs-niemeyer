@@ -3,7 +3,7 @@
 [![Concs' GitHub stats](https://github-readme-stats.vercel.app/api?username=concs-niemeyer&count_private=true&show_icons=true&theme=radical)](https://github.com/concs-niemeyer/github-readme-stats)
  
 - 🔭 I’m currently looking for work!
-- 🌱 I’m currently learning web development.
+- 🌱 I'm currently learning blockchain engineering.
 - 👯 I’m looking to collaborate with social causes.
 - 🤔 I’m looking for help with the laundry.
 - 💬 Ask me about the universe.
